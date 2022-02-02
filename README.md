@@ -1,8 +1,5 @@
 ### Hi there, I'm Isaiah - aka [Micester] 👋 
 
-[![Website](https://img.shields.io/website?label=Micester.com&style=for-the-badge&url=https%3A%2F%2FMicester.com)](https://Micester.com)
-[![Twitter Follow](https://img.shields.io/LinkedIn/follow/Micester?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/isaiah-mckenzie/)
-
 ## I'm a Aspiring Game Developer, Coder, and Full Stack Web Developer!!
 - 🍖 I’m currently learning everything 😁
 - ⚔ I’m looking to collaborate with other Developers ⚔
@@ -12,9 +9,9 @@
 
 <!-- Soon to be Game Website -->
 <!-- [<img align="left" alt="Micester.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Micester | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!-- [<img align="left" alt="Micester | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="Micester | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="Micester | LinkedIn" width="22px" src="https://www.linkedin.com/in/isaiah-mckenzie/.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="Micester | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
@@ -61,7 +58,7 @@
 
 [youtube]: https://youtube.com/Micester
 
-[linkedin]: https://linkedin.com/in/Micester
+[linkedin]: https://www.linkedin.com/in/isaiah-mckenzie/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
