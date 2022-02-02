@@ -48,7 +48,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Micester's GitHub Stats" src="https://github-readme-stats.Micester.vercel.app/api?username=Micester&show_icons=true&hide_border=true" />
+  <img align="left" alt="Micester's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Micester&show_icons=true&hide_border=true" />
+
 
 </details>
 
@@ -59,6 +60,7 @@
 [youtube]: https://youtube.com/Micester
 
 [linkedin]: https://www.linkedin.com/in/isaiah-mckenzie/
+
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
