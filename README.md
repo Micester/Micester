@@ -35,8 +35,9 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 </details>
 
