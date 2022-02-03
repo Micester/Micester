@@ -35,13 +35,8 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#49](https://github.com/Micester/create-10k-nft-collection/issues/49) in [Micester/create-10k-nft-collection](https://github.com/Micester/create-10k-nft-collection)
-2. 🗣 Commented on [#49](https://github.com/Micester/create-10k-nft-collection/issues/49) in [Micester/create-10k-nft-collection](https://github.com/Micester/create-10k-nft-collection)
-3. ❗️ Closed issue [#50](https://github.com/Micester/create-10k-nft-collection/issues/50) in [Micester/create-10k-nft-collection](https://github.com/Micester/create-10k-nft-collection)
-4. ❗️ Closed issue [#51](https://github.com/Micester/create-10k-nft-collection/issues/51) in [Micester/create-10k-nft-collection](https://github.com/Micester/create-10k-nft-collection)
-5. 🗣 Commented on [#51](https://github.com/Micester/create-10k-nft-collection/issues/51) in [Micester/create-10k-nft-collection](https://github.com/Micester/create-10k-nft-collection)
-<!--END_SECTION:activity-->
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 </details>
 
@@ -58,11 +53,8 @@
 
 
 [youtube]: https://youtube.com/Micester
-
 [linkedin]: https://www.linkedin.com/in/isaiah-mckenzie/
-
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
