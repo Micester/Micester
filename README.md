@@ -16,14 +16,13 @@
 
 <br />
 
-<p>
-  <a href="https://github.com/Micester">
-    <img src="https://badges.pufler.dev/visits/Micester/Micester?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Micester?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Micester?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+
+<a href="https://github.com/Micester">
+  <img src="https://badges.pufler.dev/visits/Micester/Micester?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/Micester?tab=repositories">
+  <img src="https://badges.pufler.dev/repos/Micester?style=flat-square&color=black&logo=github">
+</a>
 
 ### Languages and Tools:
 
