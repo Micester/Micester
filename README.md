@@ -48,6 +48,11 @@
 
 </details>
 
+<br />
+<br />
+
+---
+
 <a href="https://github.com/Micester">
   <img src="https://badges.pufler.dev/visits/Micester/Micester?style=flat-square&color=black&logo=github">
 </a>
