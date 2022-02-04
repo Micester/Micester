@@ -1,5 +1,7 @@
 ###  I'm Isaiah - aka Micester 👋 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm +Isaiah;aka+Micester)](https://git.io/typing-svg)
+
 ## I'm a Full Stack Web Developer, Aspiring Game Developer, Coder, and Gamer!!
 - 🍖 I’m currently learning everything 😁
 - ⚔ I’m looking to collaborate with other Developers ⚔
