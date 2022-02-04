@@ -1,6 +1,6 @@
 ###  I'm Isaiah - aka Micester 👋 
 
-## I'm a Aspiring Game Developer, Coder, and Full Stack Web Developer!!
+## I'm a Full Stack Web Developer, Aspiring Game Developer, Coder, and Gamer!!
 - 🍖 I’m currently learning everything 😁
 - ⚔ I’m looking to collaborate with other Developers ⚔
 - 🍊 2022 Goals: Create First Itteration Of Own Game
@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -28,9 +28,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
-<br />
-
----
 
 <a href="https://github.com/Micester">
   <img src="https://badges.pufler.dev/visits/Micester/Micester?style=flat-square&color=black&logo=github">
