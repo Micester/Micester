@@ -32,6 +32,14 @@
 
 ---
 
+<a href="https://github.com/Micester">
+  <img src="https://badges.pufler.dev/visits/Micester/Micester?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/Micester?tab=repositories">
+  <img src="https://badges.pufler.dev/repos/Micester?style=flat-square&color=black&logo=github">
+</a>
+
+
 <details>
   <summary>:zap: Recent Activity</summary>
   
@@ -47,18 +55,6 @@
   <img align="left" alt="Micester's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Micester&show_icons=true&hide_border=true" />
 
 </details>
-
-<br />
-<br />
-
----
-
-<a href="https://github.com/Micester">
-  <img src="https://badges.pufler.dev/visits/Micester/Micester?style=flat-square&color=black&logo=github">
-</a>
-<a href="https://github.com/Micester?tab=repositories">
-  <img src="https://badges.pufler.dev/repos/Micester?style=flat-square&color=black&logo=github">
-</a>
 
 <!-- Soon to be gaming website -->
 <!-- [website]: https://Micester.com -->
