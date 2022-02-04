@@ -1,4 +1,4 @@
-### Hi there, I'm Isaiah - aka Micester 👋 
+###  I'm Isaiah - aka Micester 👋 
 
 ## I'm a Aspiring Game Developer, Coder, and Full Stack Web Developer!!
 - 🍖 I’m currently learning everything 😁
@@ -10,9 +10,20 @@
 <!-- Soon to be Game Website -->
 <!-- [<img align="left" alt="Micester.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Micester | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<!-- [<img align="left" alt="Micester | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+[<img align="left" alt="Micester | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="Micester | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="Micester | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+<p align=center>
+  <a href="https://github.com/Micester">
+    <img src="https://badges.pufler.dev/visits/Micester/Micester?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Micester?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Micester?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 
 <br />
 
@@ -52,7 +63,8 @@
 <!-- [website]: https://Micester.com -->
 [youtube]: https://www.youtube.com/channel/UCLFz7HrZAAuRVqL2IG0qSjA
 [linkedin]: https://www.linkedin.com/in/isaiah-mckenzie/
-
+[instagram]: https://www.instagram.com/MckMicester/
+[twitter]: https://twitter.com/MckMicester
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
